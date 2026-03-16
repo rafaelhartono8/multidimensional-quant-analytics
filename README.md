@@ -96,7 +96,10 @@ Karena harga *close* pasar penuh dengan *noise*, digunakan **Simple Moving Avera
 
 ## 🚀 Cara Menjalankan
 
-1. Clone repository ini.
+1. Clone repository ini
+   ```bash
+   git clone https://github.com/rafaelhartono8/Multi-Asset-Analysis-1927-to-Now.git
+   ```
 2. Install dependencies: `pip install yfinance pandas atoti pyarrow`
 3. Jalankan ulang notebook `20_Asset_Market_Cube.ipynb` untuk membuat session Atoti dan mengexplore data secara interaktif.
 
